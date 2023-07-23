@@ -1,0 +1,10 @@
+* mop-utils
+
+Mop-utils is a library of utils helpful when working with metaclasses
+in Common Lisp
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/ryszard/mop-utils.git |
+| commit  | add814f                                      |
+| systems | mop-utils                                    |
+|---------+----------------------------------------------|
